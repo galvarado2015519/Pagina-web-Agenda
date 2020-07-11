@@ -1,0 +1,119 @@
+html,body{
+    margin: 0px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+body{
+    
+    margin: 0px;
+    height: 100%;
+}
+
+
+
+.altmax{
+    height: 100%;
+    width: 100%;
+}
+
+.fondo{
+    background-image: url(imagenes/fondoAgenda.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: 0;
+    margin: 0;
+}
+
+.fondodos{
+    background-image: url(imagenes/fondonueve.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: 0;
+    margin: 0;
+}
+
+.fondotres{
+    background-image: url(imagenes/fondotres.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: 0;
+    margin: 0;
+}
+
+.input{
+    margin: 10px;
+    border-radius: 15px;
+    width: 35%;
+    height: 20px;
+    padding-left: 5px;
+}
+
+.input2{
+    margin: 10px;
+    border-radius: 15px;
+    width: 100%;
+    height: 30px;
+    padding-left: 5px;
+}
+
+.buttom{
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.imagen{
+    height: 75px;
+    width: 75px;
+}
+
+.imagendos{
+    height: 50px;
+    width: 50px;
+    margin: 9%;
+}
+
+.imagentres{
+    height: 75%;
+    width: 75%;
+    margin: 3%;
+    border-radius: 3%;
+}
+
+.margen{
+    margin-right: 2%; margin-top:2%;
+}
+
+.background-gris{
+    background-color: gray;
+}
+
+.background-gris-dos{
+    background-color: silver;
+    opacity: 0.9;
+    color: black;
+}
+
+.scroll-tabla{
+    overflow: scroll;
+}
+
+.ficha{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: gainsboro;
+    opacity: 0.9;
+    border-radius: 5%;
+}
+
